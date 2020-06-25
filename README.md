@@ -9,7 +9,7 @@ Five councils said S114 emergency spending controls could be needed due to the i
 
 Nearly 150 authorities have forecast a combined budget shortfall of at least £3.2bn, the BBC found.
 
-It followed a report in May from the SDU on warnings the [emergency funding allocated to councils]would not be sufficient.(https://github.com/BBC-Data-Unit/coronavirus_council_funding/edit/master/README.md)
+It followed a report in May from the SDU on warnings the [emergency funding allocated to councils](https://github.com/BBC-Data-Unit/coronavirus_council_funding/edit/master/README.md)would not be sufficient.
 
 This project was completed with help from the [Local Democracy Reporting Service](https://www.bbc.com/lnp/ldrs), reporters who focus on local council matters. The LDRS is part of the Local News Partnerships alongside the Shared Data Unit.
 
