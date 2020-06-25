@@ -19,6 +19,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Bolton News: [The multi-million cost of fighting cornavirus](https://www.theboltonnews.co.uk/news/18539385.multi-million-cost-fighting-cornavirus/) *25 June 2020*
 * Cornish Stuff: [Could Covid-19 bankrupt councils?](https://cornishstuff.com/2020/06/25/could-covid-19-bankrupt-councils/) *25 June 2020*
+* Eastern Daily Press: ‘A pack of cards about to collapse’- dire warning over money for councils(https://www.edp24.co.uk/news/politics/alan-waters-in-dire-warning-over-funding-for-councils-1-6716378) *25 June 2020*
 * Hemel Today: [Hertfordshire County Council predicting £17million shortfall due to COVID-19](https://www.hemeltoday.co.uk/news/hertfordshire-county-council-predicting-ps17million-shortfall-due-covid-19-2894635) *25 June 2020*
 * InYourArea: [The UK councils facing potential 'bankruptcy' as coronavirus pandemic takes huge toll on public finances](https://www.inyourarea.co.uk/news/the-uk-councils-facing-potential-bankruptcy-as-coronavirus-pandemic-takes-huge-toll-on-public-finances/) *25 June 2020*
 * Lancashire Telegraph: [Services could be hit as £64 MILLION cost of coronavirus hits councils](https://www.lancashiretelegraph.co.uk/news/18539198.services-hit-64-million-cost-coronavirus-hits-councils/) *25 June 2020*
