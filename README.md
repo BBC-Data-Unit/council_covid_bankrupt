@@ -1,6 +1,8 @@
 # council_covid_bankrupt
 UK councils fear bankruptcy amid Covid-19 costs
 
+![Homepage cropped](https://user-images.githubusercontent.com/61186777/85875897-d8660f00-b7cc-11ea-8a56-7ebe718bcd42.png)
+
 In June 2020, the BBC Shared Data Unit and BBC Data Unit [reported](https://www.bbc.co.uk/news/uk-53069772) that some of the largest UK councils said they might have to declare themselves effectively bankrupt unless the government agreed to further support.
 
 The in-depth investigation necessitated contacting more than 200 upper tier council authorities across the UK for details of their current and forecast financial position, including whether or not they anticipated the need for a S114 notice - effective bankruptcy.
