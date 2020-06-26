@@ -7,7 +7,7 @@ The in-depth investigation necessitated contacting more than 200 upper tier coun
 
 Five councils said S114 emergency spending controls could be needed due to the impact of Covid-19. Liverpool, Birmingham and several other councils outlined the need for an emergency or in-year budget.
 
-Nearly 150 authorities forecast a combined budget shortfall of at least £3.2bn, the BBC found.
+Nearly 150 authorities forecast a combined budget shortfall of at least £3.2bn.
 
 It followed a report in May from the SDU on warnings the [emergency funding allocated to councils](https://github.com/BBC-Data-Unit/coronavirus_council_funding) would not be sufficient.
 
