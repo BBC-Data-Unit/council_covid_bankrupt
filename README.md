@@ -5,6 +5,8 @@ In June 2020, the BBC Shared Data Unit and BBC Data Unit [reported](https://www.
 
 The in-depth investigation necessitated contacting more than 200 upper tier council authorities across the UK for details of their current and forecast financial position, including whether or not they anticipated the need for a S114 notice - effective bankruptcy.
 
+![Homepage](https://user-images.githubusercontent.com/61186777/85875248-d3ed2680-b7cb-11ea-9b34-aed6d78a4904.png)
+
 Five councils said S114 emergency spending controls could be needed due to the impact of Covid-19. Liverpool, Birmingham and several other councils outlined the need for an emergency or in-year budget.
 
 Nearly 150 authorities forecast a combined budget shortfall of at least £3.2bn.
