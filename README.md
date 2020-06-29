@@ -15,7 +15,7 @@ It followed a report in May from the SDU on warnings the [emergency funding allo
 
 This project was completed with help from the [Local Democracy Reporting Service](https://www.bbc.com/lnp/ldrs), reporters who focus on local council matters. The LDRS is part of the Local News Partnerships alongside the Shared Data Unit.
 
-The story was widely shared within the BBC, featuring on the BBC News at One, Six and Ten, four breakfast television programmes, and 6.30 programmes for Midlands Today, Look East (West Edition Cambs), Look North Leeds, Look North Newcastle, Look North Hull, South Today Oxford, South Today, South East Today, Northwest Tonight, Reporting Scotland, Spotlight (Plymouth TV), Salford TV, Oxford TV, Birmingham TV
+The story was widely shared within the BBC, featuring on the BBC News at One, Six and Ten, four breakfast television programmes, and 6.30 programmes for Midlands Today, Look East (West Edition Cambs), Look North Leeds, Look North Newcastle, Look North Hull, South Today Oxford, South Today, South East Today, Northwest Tonight, Reporting Scotland, Spotlight (Plymouth TV), Salford TV, Oxford TV, Birmingham TV. It also led the Sunday Politics England show.
 For radio, it led bulletins on the Today programme, Radio 2, Radio 4, 5Live, included two-ways on least eight regional radio stations: Wiltshire, Shropshire, Kent, Sheffield, Lancashire, Leicester, Merseyside and Cambridge and was featured on most other regional BBC radio stations.
 BBC online promoted it as the main lead on the bbc.co.uk Homepage. It also had a separate lead on [BBC Scotland](https://www.bbc.co.uk/news/uk-scotland-highlands-islands-53149054).
 Several national outlets also picked up on the story.
