@@ -1,5 +1,4 @@
-# council_covid_bankrupt
-UK councils fear bankruptcy amid Covid-19 costs
+# Coronavirus: UK councils fear bankruptcy amid Covid-19 costs
 
 ![Homepage cropped](https://user-images.githubusercontent.com/61186777/85875897-d8660f00-b7cc-11ea-8a56-7ebe718bcd42.png)
 
