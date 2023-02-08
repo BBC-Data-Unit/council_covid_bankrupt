@@ -85,5 +85,10 @@ Online, it was promoted as the lead on the bbc.co.uk Homepage. It also had a sep
 
 ## Related repos
 
+We have also looked at council finances in the following stories:
+
+* 2019: [*English councils warned about 'running out' of reserve cash*](https://github.com/BBC-Data-Unit/council-reserves) 
+* 2021: [*Pandemic leaves councils with £3bn black hole*](https://github.com/BBC-Data-Unit/Council_cuts_during_the_pandemic/)
+
 You can [find all coronavirus-related stories by the BBC data units tagged 'coronavirus' here](https://github.com/search?q=topic%3Acoronavirus+org%3ABBC-Data-Unit&type=Repositories)
 
